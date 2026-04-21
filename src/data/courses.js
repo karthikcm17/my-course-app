@@ -7,7 +7,7 @@ export const courses = [
     students: "45k",
     price: "₹14,999",
     category: "Full Stack",
-    image: "src/assets/java.jpg"
+    image: "public/assets/java.jpg"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const courses = [
     students: "32k",
     price: "₹12,500",
     category: "Python",
-    image: "src/assets/python.jpg"
+    image: "public/assets/python.jpg"
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const courses = [
     students: "80k",
     price: "₹2,499",
     category: "Front End",
-    image: "src/assets/javascript.jpg"
+    image: "public/assets/javascript.jpg"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const courses = [
     students: "25k",
     price: "₹5,999",
     category: "Back End",
-    image: "src/assets/springboot.jpg"
+    image: "public/assets/springboot.jpg"
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const courses = [
     students: "40k",
     price: "₹4,999",
     category: "Front End",
-    image: "src/assets/react.jpg"
+    image: "public/assets/react.jpg"
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ export const courses = [
     students: "15k",
     price: "₹7,500",
     category: ".NET",
-    image: "src/assets/asp.jpg"
+    image: "public/assets/asp.jpg"
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ export const courses = [
     students: "22k",
     price: "₹18,000",
     category: "Full Stack",
-    image: "src/assets/mern.jpg"
+    image: "public/assets/mern.jpg"
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ export const courses = [
     students: "19k",
     price: "₹3,999",
     category: "Back End",
-    image: "src/assets/node.jpg"
+    image: "public/assets/node.jpg"
   },
   {
     id: 9,
@@ -87,7 +87,7 @@ export const courses = [
     students: "10k",
     price: "₹6,999",
     category: "Python",
-    image: "src/assets/django.jpg"
+    image: "public/assets/django.jpg"
   },
   {
     id: 10,
@@ -97,7 +97,7 @@ export const courses = [
     students: "55k",
     price: "₹8,999",
     category: ".NET",
-    image: "src/assets/c.jpg"
+    image: "public/assets/c.jpg"
   },
   {
     id: 11,
@@ -107,7 +107,7 @@ export const courses = [
     students: "12k",
     price: "₹1,499",
     category: "Front End",
-    image: "src/assets/tail.jpg"
+    image: "public/assets/tail.jpg"
   },
   {
     id: 12,
@@ -117,6 +117,6 @@ export const courses = [
     students: "30k",
     price: "₹11,000",
     category: "Back End",
-    image: "src/assets/devops.jpg"
+    image: "public/assets/devops.jpg"
   }
 ];
