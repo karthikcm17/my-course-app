@@ -65,7 +65,7 @@ const App = () => {
           </div>
 
           <div className="hidden lg:block relative">
-            <img src="public/assets/main.jpg"
+            <img src="assets/main.jpg"
               className="rounded-[3rem] shadow-2xl rotate-4 hover:rotate-0 transition-transform duration-700 border-8 border-white"
               alt="Learning"
             />
